@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "name": "Admin",
+      "email": "admin1234@gmail.com",
+      "password": "admi1234",
+      "role": "admin",
+      "id": 1
+    },
+    {
+      "name": "andres",
+      "email": "andres123@gmail.com",
+      "password": "123",
+      "role": "user",
+      "id": 2
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "title": "evento de rock",
+      "description": "evento de rock en vivo",
+      "date": "2025-01-01",
+      "time": "15:00"
+    }
+  ]
+}
